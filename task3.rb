@@ -4,7 +4,7 @@
 array = [1,7,2,3]
 array2 = [1,7,8,3]
 def task3(array)
-  array.find { |v| array.first < v && v < array.last } || []
+  array.find_index { |v| array.first < v && v < array.last } || []
 end
 
 p task3(array)
