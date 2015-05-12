@@ -6,5 +6,3 @@ def task51(array)
 end
 
 p task51([11,4,6,4,1,5])
-
-
