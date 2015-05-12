@@ -2,7 +2,7 @@
 #расположенных перед первым максимальным.
 
 def task50(array)
-  (0...array.index(array.max)).count
+  array[0...array.index(array.max)].count
 end
 
 p task50([11,4,6,4,1,5])

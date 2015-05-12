@@ -2,7 +2,7 @@
 #расположенных перед первым минимальным.
 
 def task49(array)
-  (0...array.index(array.min)).count
+  array[0...array.index(array.min)].count
 end
 
 p task49([3,4,6,4,1,5])
