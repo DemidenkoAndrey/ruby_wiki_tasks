@@ -12,4 +12,3 @@ def task99(array)
 end
 
 p task99([1,2,3,4,5,3,1])
-
