@@ -4,4 +4,4 @@ def task39(array)
   array.count(array.min)
 end
 
-p task39([2,3,1,5,1,56,1])
+p task39([2, 3, 1, 5, 1, 56, 1])

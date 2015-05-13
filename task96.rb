@@ -5,4 +5,4 @@ def task96(array, k)
   array.index { |v| v > k }
 end
 
-p task96([1,2,3,4,5,6], 3)
+p task96([1, 2, 3, 4, 5, 6], 3)

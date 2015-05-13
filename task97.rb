@@ -5,4 +5,4 @@ def task97(array, k)
   array.rindex { |v| v < k }
 end
 
-p task97([1,2,3,4,13,5], 15)
+p task97([1, 2, 3, 4, 13, 5], 15)

@@ -4,4 +4,4 @@ def task45(array)
   array.select { |v| v > 0 }.min
 end
 
-p task45([-5,2,-3,-5,-14])
+p task45([-5, 2, -3, -5, -14])

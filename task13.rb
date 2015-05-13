@@ -6,4 +6,4 @@ def task13(array)
   array.rotate
 end
 
-p task13([1,2,3,4,5,6])
+p task13([1, 2, 3, 4, 5, 6])

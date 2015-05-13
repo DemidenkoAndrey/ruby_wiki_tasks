@@ -7,4 +7,4 @@ def task67(array)
   (res[0].all? { |v| v.odd? } && res[1].all? { |v| v.even? })
 end
 
-p task67([1,2,2])
+p task67([1, 2, 2])

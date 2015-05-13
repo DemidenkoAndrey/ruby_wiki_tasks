@@ -14,4 +14,4 @@ def task79(array)
   end
 end
 
-p task79([-4,0,1,2,3,4])
+p task79([-4, 0, 1, 2, 3, 4])

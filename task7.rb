@@ -7,4 +7,4 @@ def task7(array)
   array
 end
 
-p task7([1,8,3,10,12,7])
+p task7([1, 8, 3, 10, 12, 7])

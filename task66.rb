@@ -4,4 +4,4 @@ def task66(array)
   array.partition { |value| value.odd?}
 end
 
-puts task66([1,2,3,4,5,6])
+puts task66([1, 2, 3, 4, 5, 6])

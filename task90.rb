@@ -4,4 +4,4 @@ def task90(array)
   array.count { |v| v.odd? }
 end
 
-p task90([1,2,13,54,33,11])
+p task90([1, 2, 13, 54, 33, 11])

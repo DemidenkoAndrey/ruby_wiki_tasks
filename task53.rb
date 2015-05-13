@@ -5,4 +5,4 @@ def task53(array)
   array[0...array.rindex(array.min)].count
 end
 
-p task53([3,1,4,6,4,1,5])
+p task53([3, 1, 4, 6, 4, 1, 5])

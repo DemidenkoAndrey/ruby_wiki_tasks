@@ -4,4 +4,4 @@ def task65(array)
   array.partition { |value| value.even?}
 end
 
-puts task65([1,2,3,4,5,6])
+puts task65([1, 2, 3, 4, 5, 6])

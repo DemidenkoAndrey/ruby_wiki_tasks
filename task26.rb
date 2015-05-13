@@ -5,9 +5,8 @@ def task26(array)
   i = 0
   while i < array.size
     if array[i] < 0
-      array.insert(i,array[0])
+      array.insert(i, array[0])
       i += 2
-      p i, array.size
     else
       i += 1
     end
@@ -15,4 +14,4 @@ def task26(array)
   array
 end
 
-p task26([1,-5,3,-4])
+p task26([1, -5, 3, -4])

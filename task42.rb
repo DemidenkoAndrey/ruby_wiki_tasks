@@ -4,5 +4,5 @@ def task42(array)
   array.select { |v| v.odd? }.min
 end
 
-p task42([1,8,10,12,4,15])
+p task42([1, 8, 10, 12, 4, 15])
 

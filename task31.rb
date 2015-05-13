@@ -6,4 +6,4 @@ def task31(array)
   array.sort { |a,b| b <=> a}.map { |v| array.index(v) }
 end
 
-p task31([9,3,1,4,6,11,5,7])
+p task31([9, 3, 1, 4, 6, 11, 5, 7])

@@ -3,7 +3,7 @@
 # в противном случае вывести false.
 
 def task92(array, k)
-  array.any? { |v| v > k}
+  array.any? { |v| v > k }
 end
 
-p task92([1,2,3,4], 3)
+p task92([1, 2, 3, 4], 3)

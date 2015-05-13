@@ -17,4 +17,4 @@ def task69(array, number)
   result
 end
 
-p task69([1.2,1.3,1.35,1.40,1.1], 1.33)
+p task69([1.2, 1.3, 1.35, 1.40, 1.1], 1.33)

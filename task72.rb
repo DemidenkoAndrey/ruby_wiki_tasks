@@ -8,4 +8,4 @@ def task72(array)
   array -= delete_values
 end
 
-p task72([1,2,3,4,2,3,6,1,5,3,51])
+p task72([1, 2, 3, 4, 2, 3, 6, 1, 5, 3, 51])

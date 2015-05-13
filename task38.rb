@@ -4,4 +4,4 @@ def task38(array)
   array.rindex(array.max)
 end
 
-puts task38([1,-3,5,3,4,-3,5,3])
+puts task38([1, -3, 5, 3, 4, -3, 5, 3])

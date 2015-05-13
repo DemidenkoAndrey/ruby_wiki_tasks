@@ -2,7 +2,7 @@
 # следующего выражения 1 + А + А*2 + А*3 + … + А*N.
 
 def task82(a,n)
-  (1..n).inject(1) { |sum, v| sum + v * a}
+  (1..n).inject(1) { |sum, v| sum + v * a }
 end
 
 p task82(5,3)

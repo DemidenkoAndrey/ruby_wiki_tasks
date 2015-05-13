@@ -4,4 +4,4 @@ def task37(array)
   array.rindex(array.min)
 end
 
-puts task37([1,-3,2,3,4,-3])
+puts task37([1, -3, 2, 3, 4, -3])

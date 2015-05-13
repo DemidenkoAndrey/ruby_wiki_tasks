@@ -5,4 +5,4 @@ def task54(array)
   array[0...array.rindex(array.max)].count
 end
 
-p task54([11,4,6,4,11,5])
+p task54([11, 4, 6, 4, 11, 5])

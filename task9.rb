@@ -2,7 +2,7 @@
 # элементы на значение минимального.
 
 def task9(array)
-  array.map { |v| v > 0 ? array.min : v}
+  array.map { |v| v > 0 ? array.min : v }
 end
 
 p task9([-5, 8, -1, 4, -10, 11, 12, 0, -1])

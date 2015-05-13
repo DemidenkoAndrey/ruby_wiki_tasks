@@ -3,8 +3,8 @@
 # элементы массива не изменять.
 
 def task8(array)
-  array[1..-2] = array[1..-2].map { |v| v.odd? ?  v + array.first : v }
+  array[1..-2] = array[1..-2].map { |v| v.odd? ? v + array.first : v }
   array
 end
 
-p task8([1,8,3,10,12,7])
+p task8([1, 8, 3, 10, 12, 7])

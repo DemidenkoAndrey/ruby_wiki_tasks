@@ -5,4 +5,4 @@ def task47(array, range)
   (array & range.to_a).min
 end
 
-p task47([1,2,3,4,5], 3..5)
+p task47([1, 2, 3, 4, 5], 3..5)

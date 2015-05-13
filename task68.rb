@@ -7,4 +7,4 @@ def task68(array)
   (res[0].all? { |v| v < 0 } && res[1].all? { |v| v > 0 })
 end
 
-p task68([2,-1,2,0,3,-10])
+p task68([2, -1, 2, 0, 3, -10])

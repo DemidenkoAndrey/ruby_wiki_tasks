@@ -4,4 +4,4 @@ def task89(array)
   array.select { |v| v.odd? }
 end
 
-p task89([1,2,3,13])
+p task89([1, 2, 3, 13])

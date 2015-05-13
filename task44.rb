@@ -4,4 +4,4 @@ def task44(array)
   array.select { |v| v.odd? }.max
 end
 
-p task44([1,8,10,12,4,15])
+p task44([1, 8, 10, 12, 4, 15])

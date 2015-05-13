@@ -6,4 +6,4 @@ def task91(array, k)
   array.any? { |v| v < k }
 end
 
-p task91([1,2,3,4], 2)
+p task91([1, 2, 3, 4], 2)

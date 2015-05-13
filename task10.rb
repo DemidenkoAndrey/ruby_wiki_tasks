@@ -2,7 +2,7 @@
 # элементы на значение максимального.
 
 def task10(array)
-  array.map { |v| v > 0 ? array.max : v}
+  array.map { |v| v > 0 ? array.max : v }
 end
 
 p task10([-5, 8, -1, 4, -10, 11, 12, 0, -1])

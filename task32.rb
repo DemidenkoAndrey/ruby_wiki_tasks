@@ -6,4 +6,4 @@ def task32(array)
   array.sort.map { |v| array.index(v) }
 end
 
-p task32([9,3,1,4,6,11,5,7])
+p task32([9, 3, 1, 4, 6, 11, 5, 7])

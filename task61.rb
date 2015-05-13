@@ -5,6 +5,4 @@ def task61(array)
   [array2.delete(array2.max), array2.delete(array2.max)]
 end
 
-a = [1,2,3,4,23,5,1,17]
-p task61(a)
-p a
+a = [1, 2, 3, 4, 23, 5, 1, 17]

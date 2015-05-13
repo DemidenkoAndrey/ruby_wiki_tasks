@@ -2,7 +2,7 @@
 # Вывести количество элементов, меньших К.
 
 def task95(array, k)
-  array.count { |v| v < k}
+  array.count { |v| v < k }
 end
 
-p task95([1,2,3,4,5], 1)
+p task95([1, 2, 3, 4, 5], 1)

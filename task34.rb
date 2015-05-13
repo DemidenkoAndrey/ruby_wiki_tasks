@@ -4,4 +4,4 @@ def task33(array)
   array.index(array.max)
 end
 
-puts task33([1,2,3,4,-3])
+puts task33([1, 2, 3, 4, -3])

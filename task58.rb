@@ -12,4 +12,4 @@ def task58(array)
   end
 end
 
-p task58([3,5,4,8,4,2])
+p task58([3, 5, 4, 8, 4, 2])
